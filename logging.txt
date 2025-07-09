@@ -1,0 +1,8 @@
+Conversation Log: 
+You: hi my name is tony
+AI: Hi Tony! How can I assist you today?
+
+You: you know my name?
+AI: Yes, you just mentioned that your name is Tony. How can I help you today?
+
+End of conversation
